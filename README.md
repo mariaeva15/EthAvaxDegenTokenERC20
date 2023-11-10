@@ -66,7 +66,7 @@ The code implements a flexible ERC-20 token with additional gaming-specific feat
 This project was inspired by a token creation project, and the structure is adapted from the OpenZeppelin library.
 
 ## Authors
-- Hailey
+- Maria Evangelicalyn Ong
 
 ## License
 This project is licensed under the MIT License. See the LICENSE.md file for details.
