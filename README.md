@@ -36,10 +36,10 @@ The contract includes a structure, `PokemonItem`, defining in-game items such as
 Follow these steps to run the Degen Token smart contract using Remix Ethereum IDE:
 
 ### Step 1: Create a File
-Create a new file with your preferred name, for example, `DegenTokenAvax.sol`.
+Create a new file with your preferred name, for example, `DegenToken.sol`.
 
 ### Step 2: Paste Source Code
-Copy the source code from the provided file (`DegenTokenAvax.sol`) and paste it into the newly created file.
+Copy the source code from the provided file (`DegenToken.sol`) and paste it into the newly created file.
 
 ### Step 3: Compile and Save
 Press `Ctrl + S` to compile and save the file. Ensure that the compiler is set to version 0.8.18.
