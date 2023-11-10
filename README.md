@@ -35,25 +35,25 @@ The contract includes a structure, `PokemonItem`, defining in-game items such as
 
 Follow these steps to run the Degen Token smart contract using Remix Ethereum IDE:
 
-### Step 1: Create a File
+*** Step 1: Create a File 
 Create a new file with your preferred name, for example, `DegenToken.sol`.
 
-### Step 2: Paste Source Code
+*** Step 2: Paste Source Code
 Copy the source code from the provided file (`DegenToken.sol`) and paste it into the newly created file.
 
-### Step 3: Compile and Save
+*** Step 3: Compile and Save
 Press `Ctrl + S` to compile and save the file. Ensure that the compiler is set to version 0.8.18.
 
-### Step 4: Change Environment to Injected Provider - Metamask
+*** Step 4: Change Environment to Injected Provider - Metamask
 Change the environment in Remix to "Injected Provider - Metamask." This allows you to interact with the AVAX network.
 
-### Step 5: Launch the Smart Contract
+*** Step 5: Launch the Smart Contract
 Click the "Deploy" button in Remix to launch the smart contract. This action will trigger a Metamask notification to consume AVAX tokens.
 
-### Step 6: Check Transaction
+*** Step 6: Check Transaction
 After initiating the deployment, check the transaction status in [SnowTrace](https://testnet.snowtrace.io/) by pasting your wallet address in the search bar for transactions.
 
-### Step 7: Execute the Smart Contract
+*** Step 7: Execute the Smart Contract
 Once the transaction is confirmed, you can execute the smart contract on the AVAX network.
 
 Now, the Degen Token is ready for use in your gaming ecosystem, providing minting, transferring, redeeming, balance checking, and burning functionalities.
